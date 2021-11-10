@@ -5,6 +5,10 @@
 
 void gotoxy1(int x, int y);
 void printMenu(void);
+void ADD(void);
+void SUB(void);
+void MUL(void);
+void DIV(void);
 
 int main()
 {
